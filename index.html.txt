@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>Salutare tuturor!</title>
+</head>
+<body>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMHVEFWNLMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h1>V-ati gandit vreodata cat e simplu este sa aveti o alimentatie sanatoasa?</h1>
+<h2> Un stil de viata sanatos este esential pentru o viata lunga si fara probleme</h2>
+<font face=Adobe Gothic Std"font size="5"font color="green"><b>
+<marquee>Consumati legume atat pentru voi cat si pentru viitorul planetei noaste! </marquee></b></font>
+<a href="#dieta">preparate</a>
+<a href="#sfaturi de nutritie">hidratare</a>
+<a href="#intamplari personale">ce sa nu faci</a>
+<a name="dieta">preparate</a>:
+<p>Conform cercetatorilor americani, majoritatea populatiei nu consuma verdeturi, pentru ca nu stiu cum sa le prepare sau pentru ca nu le considera nutritive. Cele mai nutritive verdeturi si mai bogate in fibre sunt: napii (contine cea mai mare cantitate de antioxidanti), frunzele de mustar, broccoli, bok choi sau spanacul. Fibrele ajuta la o mai buna digestie si la reglarea tranzitului intestinal, prevenind constipatia, o afectiune intalnita in mod frecvent in randul femeilor care au probleme cu greutatea corporala. In plus, toate aceste verdeturi sunt sarace in calorii, motiv pentru care nu ar trebui sa lipseasca din alimentatia de zi cu zi.</p>
+<a name="sfaturi de nutritie">hidratare</a>:
+<p>Hidratarea. Scade consumul de sucuri si de bauturi alcoolice mai ales in zilele in care nu faci antrenamente. Iti recomand sa combini intr-un pahar jumatate fresh de fructe cu jumatate apa. Astfel, carbohidratii sunt mai putini. Consuma minimum 2 litri de apa pe zi.Consuma legume. Legumele sunt secretul pentru un organism fara tesut adipos. Daca puteti, introduceti legumele la orice masa. Unele legume contin proteina vegetala. Deoarece contin fibre, carbohidrati buni, vitamine, minerale si apa, legumele ajuta organismul sa functioneze la parametri optimi si astfel metabolismul se va accelera si vom arde si mai mult din tesutul adipos nedorit.
+
+ Consuma fructe. Fructele la fel ca si legumele sunt bogate in fibre, vitamine, minerale si apa. Va recomand sa alegeti cu grija ce fructe consumati si la ce ore, deoarece contin zahar (fructoza) care ne poate ingreuna evolutia.</p>
+<a name="intamplari personale">ce sa nu faci</a>:
+<p>Este foarte important sa stam departe de alimentele grase si de prajeli. Uleiurile gatite sunt si ele de evitat.</p>
+<p> Daca aveti dificultati in identificarea celor mai nutritive alimente, noi va venim in ajutor! </p>
+<p2> Am facut o lista cu toate elementele necesare unui stil de viata sanatos"</p2>
+<ul>
+<li>
+Alimente bogate in minerale
+</li>
+<li>
+Hidratare
+</li>
+<li>
+Sport
+</li>
+<li>
+Odihna
+</li>
+<li>
+Gandire pozitiva
+</li>
+</ul>
+<a href="https://voltamusicawards.com/ro/53-retete-extraordinare-pe-baza-de-plante/">Retete sanatoase pe baza de plante
+<a href="https://gradinamax.ro/articles/sanatate-la-tine-acasa-9-plante-medicinale-benefice-organismului/">Beneficiile plantelor asupra organismului
+<a href="https://www.sfatulmedicului.ro/Sanatate-prin-sport/beneficiile-sportului-asupra-organismului_15271/">Importanta miscarii
+<img src="file:///C:/Users/Ionut%20Ruse/Downloads/html/imagine.html.jpg" alt=
+"" >
+<table bgcolor="brown" width="500">
+<tr bgcolor="green">
+<th width="100">Luni</th>
+<th width="100">Marti</th>
+<th width="100">Miercuri</th>
+<th width="100">Joi</th>
+<th width="100">Vineri</th>
+</tr>
+<tr bgcolor="lightgreen" align="center">
+<td>Verdeturi</td>
+<td>Fructe</td>
+<td>Morcovi</td>
+<td>Sucuri naturale</td>
+<td>Supe<td/>
+</body>
+</html>
